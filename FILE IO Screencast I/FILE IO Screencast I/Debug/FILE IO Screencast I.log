@@ -1,0 +1,3 @@
+﻿  Question 3.c
+c:\users\marco\source\repos\file io screencast i\file io screencast i\question 3.c(52): warning C4477: 'fscanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'int *'
+  FILE IO Screencast I.vcxproj -> C:\Users\marco\source\repos\FILE IO Screencast I\Debug\FILE IO Screencast I.exe
